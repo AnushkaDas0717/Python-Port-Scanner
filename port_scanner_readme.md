@@ -14,14 +14,14 @@ A port scanner is a network security tool that probes a host or server for open 
 
 ## Features
 
-- ✅ Interactive command-line interface
-- ✅ Support for IP addresses and hostnames
-- ✅ Customizable port ranges
-- ✅ Both sequential and multithreaded scanning modes
-- ✅ Service identification for common ports
-- ✅ Comprehensive error handling
-- ✅ Clean, readable output format
-- ✅ Built-in timeout management
+-  Interactive command-line interface
+-  Support for IP addresses and hostnames
+-  Customizable port ranges
+-  Both sequential and multithreaded scanning modes
+-  Service identification for common ports
+-  Comprehensive error handling
+-  Clean, readable output format
+-  Built-in timeout management
 
 ## Requirements
 
@@ -145,7 +145,7 @@ Example performance on a typical network:
 
 ## Legal and Ethical Considerations
 
-⚠️ **IMPORTANT DISCLAIMER**
+ **IMPORTANT DISCLAIMER**
 
 This tool is provided for educational and legitimate security testing purposes only. Users must:
 
